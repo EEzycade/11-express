@@ -1,18 +1,1 @@
-{
-    "notes": [
-        {
-            "title": "Test Title",
-            "text": "Test text"
-        },
-        {
-            "title": "safasdfasdf",
-            "text": "asfdasdfasdfcadecadecade",
-            "id": "vrryt"
-        },
-        {
-            "title": "asfdasdf",
-            "text": "asdfasdf",
-            "id": "uw8lh"
-        }
-    ]
-}
+{"notes":[{"title":"new note","text":"new note text","id":"fhxqc"},{"title":"grocery list","text":"eggs\nmilk\nbread\napples","id":"hnzol"},{"title":"to do list","text":"homework\ngrocery store\ncall my mom","id":"xse51"},{"title":"note test","text":"this is a test to see if the note is created","id":"ss3wm"},{"title":"Final test","text":"final test of site before submitting challenge","id":"o3pm5"}]}
